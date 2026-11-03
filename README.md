@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Learn the five main ways AI is trained by training five real models yourself, each in minutes, on a laptop.</b>
+  <b>Learn the five main ways AI is trained by training six small models yourself, each in minutes, on a laptop.</b>
 </p>
 
 <p align="center">
