@@ -76,6 +76,8 @@ Each project's `NOTES.md` explains its concepts in plain language, records real 
 
 For the big picture, read [**AI Training Methods**](<AI Training Methods/TRAINING_METHODS.md>), a one-page map of every major training approach.
 
+Stuck on a word? The [**ML Glossary**](glossary/) explains 300+ terms in plain language (RL, PEFT, LoRA, synthetic data, RLHF, diffusion and more), each linked to where it shows up in this repo's code.
+
 ## Results
 
 ### Digit recognizer: 99.29% on handwriting it has never seen
@@ -152,6 +154,7 @@ Project 6 swaps the table for a neural network and gives the snake one new sense
 ├── docs/                        # the live demo (GitHub Pages)
 ├── scripts/                     # regenerate the demo weights and GIFs
 ├── AI Training Methods/         # one-page guide to every training method
+├── glossary/                    # 300+ ML terms in plain language, linked to the code
 ├── tests/                       # checks each trained model still performs as reported
 └── NOTES.md                     # notes for projects 1 and 2 (each folder has its own)
 ```
